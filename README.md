@@ -9,4 +9,6 @@ This tool lets the dancer in real-time control the sound produced by the drummer
 Coded by Lisa Andersson López & Thelma Svenns. 
 In collaboration with musician Jakob Klang and dancer and choreographer Isabell Hertzberg. 
 
-https://vimeo.com/414692921
+Video of Isabell trying out the final prototype: https://vimeo.com/414692921
+
+# INSTRUCTIONS

@@ -17,3 +17,5 @@ Video of Isabell using the final prototype: https://vimeo.com/414692921
 2. Configure NGIMU sensors to computer and wi-fi
 3. Set up Sensory Percussion (train sensors/software); connect to computer through sound card 
 4. Turn on NGIMU sensors -> dance and control the music (delay and pitch)! 
+
+### Enjoy /Lisa&Thelma
